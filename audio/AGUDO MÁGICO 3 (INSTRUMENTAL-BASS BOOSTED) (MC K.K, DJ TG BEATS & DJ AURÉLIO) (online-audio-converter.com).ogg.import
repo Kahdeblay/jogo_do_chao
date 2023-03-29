@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/AGUDO MÁGICO 3 (INSTRUMENTAL-BASS BOOSTED) (MC K.K, DJ TG BEATS & DJ AURÉLIO) (online-audio-converter.com).ogg-f4204a4809145268d949c715f5e161c5.oggstr"
+
+[deps]
+
+source_file="res://audio/AGUDO MÁGICO 3 (INSTRUMENTAL-BASS BOOSTED) (MC K.K, DJ TG BEATS & DJ AURÉLIO) (online-audio-converter.com).ogg"
+dest_files=[ "res://.import/AGUDO MÁGICO 3 (INSTRUMENTAL-BASS BOOSTED) (MC K.K, DJ TG BEATS & DJ AURÉLIO) (online-audio-converter.com).ogg-f4204a4809145268d949c715f5e161c5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
